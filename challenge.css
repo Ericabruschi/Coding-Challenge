@@ -1,0 +1,99 @@
+
+
+
+body {
+    background-image: url(file:///Users/ericabruschi/Desktop/coding%20challenge/background.jpg);
+background-size: cover;
+display: inline-block;
+    margin: 0px auto;
+    text-align: center;
+}
+
+
+.text-block {
+  position: absolute;
+  width: 840px;
+  height: 600px;
+  background: rgb(0, 0, 0);
+  background: rgba(0, 0, 0, 0.5);
+  color: #f1f1f1;
+  margin-left: 18%;
+  border-radius: 2%;
+  padding 20px;
+  }
+
+
+header {
+  text-align: center;
+  margin-top: 63px;
+  margin-left: 20px;
+
+  }
+
+.logo {
+  width: 200px;
+
+  }
+
+.slogan {
+    color: #33ff33;
+    margin: auto;
+
+    }
+
+div {
+  display: inline-block;
+  }
+
+nav {
+  background-position: center;
+  background: #33ff33;
+  padding: 10px;
+  width: 700px;
+  height: 25px;
+  text-align: center;
+  margin: auto;
+
+  }
+
+main {
+text-align: left;
+margin-left: 60px;
+    }
+
+.monopattini {
+  color: white;
+  font-size: 21px;
+  margin-top: 18px;
+
+  }
+
+.descrizione {
+  color: white;
+  font-size: 16px;
+
+  }
+
+.percentuale1{
+  width: 280px;
+  height: 25px;
+  background-color: #ffb84d;
+  border-radius: 5px;
+
+  }
+
+.percentuale2{
+    width: 500px;
+    height: 25px;
+    background-color: #00e600;
+    border-radius: 5px;
+
+    }
+
+.percentuale3{
+      width: 120px;
+      height: 25px;
+      background-color:#b32d00;
+      border-radius: 5px;
+
+      }
